@@ -1,0 +1,35 @@
+{
+  "name": "bass-sql",
+  "version": "0.0.1",
+  "description": "Bass.js adapter for SQL databases",
+  "directories": {
+    "test": "test"
+  },
+  "main": "",
+  "scripts": {
+    "test": "mocha test/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/congajs/bass-sql.git"
+  },
+  "keywords": [
+    "orm",
+    "odm",
+    "dirty"
+  ],
+  "author": "Marc Roulias",
+  "license": "MIT",
+  "dependencies": {
+    "async": "0.2.8",
+    "any-db": "2.1.0",
+    "any-db-mysql": "2.1.1",
+    "sql": "*"
+  },
+  "devDependencies": {
+     "mocha": "1.9.0",
+     "should": "1.2.2",
+     "bass": "0.0.6"
+  },
+  "readmeFilename": "README.md"
+}
