@@ -24,6 +24,7 @@
     "async": "0.2.8",
     "any-db": "2.1.0",
     "any-db-mysql": "2.1.1",
+	"any-db-transaction": "2.1.3",
     "sql": "*",
     "bass": "*",
 	 "q":"0.9.4"
