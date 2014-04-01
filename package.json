@@ -1,6 +1,6 @@
 {
   "name": "bass-sql",
-  "version": "0.0.11",
+  "version": "0.0.12",
   "description": "Bass.js adapter for SQL databases",
   "directories": {
     "test": "test"
