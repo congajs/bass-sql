@@ -1,6 +1,6 @@
 {
   "name": "bass-sql",
-  "version": "0.0.17",
+  "version": "0.0.18",
   "description": "Bass.js adapter for SQL databases",
   "directories": {
     "test": "test"
@@ -23,6 +23,10 @@
 		{
 			"name": "Anthony Matarazzo" ,
 			"email": "email@anthonymatarazzo.com"
+		},
+		{
+			"name": "Collin Davidson" ,
+			"email": "fcdavidson@gmail.com"
 		}
   ],
   "license": "MIT",
